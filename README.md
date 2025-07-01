@@ -1,6 +1,6 @@
 # Hi, I'm Shadman 👋
 
-I started my programming journey with **Java** and **C++**, but soon found myself deeply involved in the world of **Android development**. These days, I'm especially excited about **Kotlin Multiplatform (KMP)** — and that’s where most of my current energy is focused.
+I started my programming journey with **Java**, **C#** and **C++**, but soon found myself deeply involved in the world of **Android development**. These days, I'm especially excited about **Kotlin Multiplatform (KMP)** — and that’s where most of my current energy is focused.
 
 ---
 
