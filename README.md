@@ -4,7 +4,7 @@ I started my programming journey with **Java**, **C#** and **C++**, but soon fou
 
 ---
 
-## My Current Focus
+## K-series
 
 I'm actively building a suite of Kotlin Multiplatform libraries under the **K-series** — designed to be simple, useful, and platform-ready:
 
