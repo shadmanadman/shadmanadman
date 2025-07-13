@@ -2,11 +2,25 @@
 
 <img src="https://github.com/shadmanadman/AbTrax/blob/main/poster.gif" width="720px">
 
-🤖 I love learning about and making machine learning systems.\
-💻 I am constantly seeking out new technologies and learning about them.\
-🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.\
-🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.
-###
+I began coding in an era when Visual Basic was just switching to .Net . I quickly transitioned to Java and focused on Android development with a buggy Eclipes ide. I have particular strengths in consulting, client-facing activities, and managing large-scale softwares.
+
+These days, I'm especially excited about Kotlin Multiplatform(KMP) and that’s where most of my current energy is focused.
+I'm actively building a suite of Kotlin Multiplatform libraries under the K-series, designed to be simple, useful, and platform-ready:
+
+- [`Kflite`](https://github.com/shadmanadman/kflite) – Run TFLite models with ease on mobile
+- [`KSensor`](https://github.com/shadmanadman/KSensor) – Access sensors across platforms
+- [`Knotif`](https://github.com/shadmanadman/Knotif) – Flexible, platform-aware notifications
+- [`KWebView`](https://github.com/shadmanadman/KWebView) – Use WebView in KMP without the headaches
+
+My goal is to grow as a full-stack engineer by using the following stacks:
+```
+1. KMP
+2. Spring Boot + Kotlin
+3. Python
+3. Golang
+```
+
+
 
 <h2 align="center">My Stats</h2>
 
