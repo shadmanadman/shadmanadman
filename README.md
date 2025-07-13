@@ -1,16 +1,6 @@
-# Hey, I'm AbTrax! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey, I'm Shadman Adman! You can call me Shad ###
 
-###
-
-<div align="center">
-  <img height="" src="https://github.com/AbTrax/AbTrax/blob/main/abtrax-banner.png?raw=true"  />
-</div>
-
-###
-
-<h2 align="center">About Me</h2>
-
-###
+<img src="https://github.com/shadmanadman/AbTrax/blob/main/poster.gif" width="720px">
 
 🤖 I love learning about and making machine learning systems.\
 💻 I am constantly seeking out new technologies and learning about them.\
