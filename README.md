@@ -2,10 +2,10 @@
 
 <img src="https://github.com/shadmanadman/AbTrax/blob/main/poster.gif" width="720px">
 
-I began coding in an era when Eclipse was the official ide for Android. Coding in Java, C++, and Visual Basic were the early foundation of my problem-solving.
+I began coding in an era when Eclipse was the official ide for Android. Coding in Java, C++, and Visual Basic were the early foundation of my problem-solving.<br>
 My particular strengths is in consulting, client-facing activities, and managing large-scale softwares.
 
-I focus on simplcity and I value trust. I'm fast enough to read and understand new-to-me codebases. Given my background, I'm prety good with legacy codes. 
+I focus on simplcity and I value trust. I'm fast enough to read and understand new-to-me codebases. Given my background, I'm prety good with legacy codes. <br>
 My main domains are AI, Health Tech, and Trading. I consistently update my knowledge of the rules and principles within these domains.
 
 These days, I'm especially excited about Kotlin Multiplatform(KMP) and that’s where most of my current energy is focused.
