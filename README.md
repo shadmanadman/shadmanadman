@@ -2,10 +2,11 @@
 
 <img src="https://github.com/shadmanadman/AbTrax/blob/main/poster.gif" width="720px">
 
-I began coding in an era when Visual Basic was just switching to .Net . I quickly transitioned to Java and focused on Android development with a buggy Eclipes ide. My particular strengths is consulting, client-facing activities, and managing large-scale softwares.
+I began coding in an era when Eclipse was the official ide for Android. Coding in Java, C++, and Visual Basic were the early foundation of my problem-solving.
+My particular strengths is in consulting, client-facing activities, and managing large-scale softwares.
 
 I focus on simplcity and I value trust. I'm fast enough to read and understand new-to-me codebases. Given my background, I'm prety good with legacy codes. 
-My main domains are AI, finance, and trading. I consistently update my knowledge of the rules and principles within these domains.
+My main domains are AI, Health Tech, and Trading. I consistently update my knowledge of the rules and principles within these domains.
 
 These days, I'm especially excited about Kotlin Multiplatform(KMP) and that’s where most of my current energy is focused.
 I'm actively building a suite of Kotlin Multiplatform libraries under the K-series, designed to be simple, useful, and platform-ready:
@@ -15,12 +16,14 @@ I'm actively building a suite of Kotlin Multiplatform libraries under the K-seri
 - [`Knotif`](https://github.com/shadmanadman/Knotif) – Flexible, platform-aware notifications
 - [`KWebView`](https://github.com/shadmanadman/KWebView) – Use WebView in KMP without the headaches
 
-My goal is to grow as a full-stack engineer by using the power of following languages:
+My goal is to grow as a full-stack engineer by using the power of following stacks:
 ```
 1. KMP
 2. Spring Boot + Kotlin
-3. Python
 3. Golang
+4. Docker
+5. kubernetes
+6. Cloud Computing
 ```
 
 
