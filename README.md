@@ -24,6 +24,7 @@ My goal is to grow as a full-stack engineer by using the power of following stac
 4. Docker
 5. kubernetes
 6. Cloud Computing
+7. ML models & AI
 ```
 
 
