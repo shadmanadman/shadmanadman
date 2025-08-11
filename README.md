@@ -1,4 +1,4 @@
-# Shadman Adman! You can call me Shad ###
+# Shad Adman #
 
 <img src="https://github.com/shadmanadman/AbTrax/blob/main/poster.gif" width="720px">
 
