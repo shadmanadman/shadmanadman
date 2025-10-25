@@ -3,12 +3,16 @@
 <div align="center">
 <img src="https://github.com/shadmanadman/AbTrax/blob/main/poster.gif" width="720px">
 </div>
-
+<br>
+<br>
+<p align="justify">
 Beginning with C provided the strong foundational logic for our coding world,a base that made the transition to Android development highly effective. This individual brings twelve years of focused experience in Android, specializing in critical domains such as Health Tech, trading, and on-device AI models. 
 This extensive background has refined a proven ability to make technical decisions under pressure and establish lasting professional relationships.Expertise includes working deeply with mobile hardware, performing NDK integrations and exploiting the power of on-device AI models like PyTorch Mobile and TFLite. Currently, the focus has shifted alongside native Android to include optimizing mobile performance via Kotlin Multiplatform. A key to reduce overall software costs , involves modernizing large, established mobile applications by maximizing code shareability between Android and iOS using native shared KMP modules. 
-less code == less costs
+</p>
 
+<p align="center"><b>less code == less costs</b></p>
 
+  
 ###
 
 <div align="center">
