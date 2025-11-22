@@ -6,7 +6,7 @@
 <br>
 <br>
 <p align="justify">
-Beginning with C++ provided a strong foundational logic for our coding world,a base that made the transition to Android development highly effective. This individual brings twelve years of focused experience in Android, specializing in critical domains such as Health Tech,Degital Retails, Trading, and on-device AI. 
+This individual got in love with coding where intrdoduced to C++ in studants time, bringing twelve years of focused experience in Android, specializing in domains such as Health Tech,Degital Retails, Trading, and on-device AI. 
 This extensive background has refined a proven ability to make technical decisions under pressure and establish lasting professional relationships.Expertise includes working deeply with mobile hardware, performing NDK integrations and exploiting the power of on-device AI models like PyTorch Mobile, TFLite and ONNX. Currently, the focus has shifted alongside native Android to include optimizing mobile performance via Kotlin Multiplatform. A key to reduce overall software costs, involves modernizing large, established mobile applications by maximizing code shareability between Android and iOS using native shared KMP modules. 
 </p>
 
