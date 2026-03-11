@@ -6,8 +6,10 @@
 <br>
 <br>
 <p align="justify">
-This individual got in love with coding where intrdoduced to C++ in studants time, bringing twelve years of focused experience in Android, specializing in domains such as Health Tech,Degital Retails, Trading, and on-device AI. 
-This extensive background has refined a proven ability to make technical decisions under pressure and establish lasting professional relationships.Expertise includes working deeply with mobile hardware, performing NDK integrations and exploiting the power of on-device AI models like PyTorch Mobile, TFLite and ONNX. Currently, the focus has shifted alongside native Android to include optimizing mobile performance via Kotlin Multiplatform. A key to reduce overall software costs, involves modernizing large, established mobile applications by maximizing code shareability between Android and iOS using native shared KMP modules. 
+This individual got in love with coding where intrdoduced to C++ in studants time. I did a lot of work with Android & Kotlin Multiplatform, specializing in domains such as Health Tech,Degital Retails, Trading, iGaming, and on-device AI. 
+
+
+I'm active on github only for contribution into opensource world. Currenlty focusing on kotlin Multiplatform & embeding non-kotlin languages & platforms with kotlin, especaily low-level languges like c,zig & rust. I'm also facinated by on-device AI & working with tflite, ONNX & pytourch mobile.
 </p>
 
 <p align="center"><b>KMP == less code == less costs</b></p>
