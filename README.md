@@ -8,7 +8,7 @@
 <p align="justify">
 This individual got in love with coding where intrdoduced to C++ in studants time. I did a lot of work with Android & Kotlin Multiplatform, specializing in domains such as Health Tech,Degital Retails, Trading, Fintech, iGaming. 
 
-I'm active on github only for contribution into opensource world. Everything I know is from opensource, so i will give back as much as i can.
+I'm active on github only for contribution into opensource world. Everything I know comes from opensource, so i will give back as much as i can.
 
 Currenlty focusing on kotlin Multiplatform & embeding non kotlin languages/platforms with kotlin, especaily low level languages. I'm also facinated by on device AI , working with tflite, ONNX & PyTorch Mobile.
 </p>
