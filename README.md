@@ -19,7 +19,7 @@ Currenlty focusing on kotlin Multiplatform & embeding non kotlin languages/platf
 ###
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadmanadman&theme=calm" width=750  alt="stats graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShadAdman&theme=calm" width=750  alt="stats graph"/>
 
 </div>
 
